@@ -213,7 +213,10 @@ int x = 10; int y = 4; int z = 5;
 // This expression is FALSE
 ``` 
 ## References
--Java Control Structures. (2021). Retrieved 1 February 2021, from http://net-informations.com/java/sts/default.htm
--Constants, Variables, Expressions and Operators - GW-BASIC User's Guide. (2021). Retrieved 1 February 2021, from https://hwiegman.home.xs4all.nl/gw-man/Chapter%206.html
--Constants, Variables, Expressions and Operators - GW-BASIC User's Guide. (2021). Retrieved 1 February 2021, from https://hwiegman.home.xs4all.nl/gw-man/Chapter%206.html
--Busbee, K., & Braunschweig, D. (2021). Constants and Variables. Retrieved 1 February 2021, from https://press.rebus.community/programmingfundamentals/chapter/constants-and-variables/
+- Java Control Structures. (2021). Retrieved 1 February 2021, from http://net-informations.com/java/sts/default.htm
+
+- Constants, Variables, Expressions and Operators - GW-BASIC User's Guide. (2021). Retrieved 1 February 2021, from https://hwiegman.home.xs4all.nl/gw-man/Chapter%206.html
+
+- Constants, Variables, Expressions and Operators - GW-BASIC User's Guide. (2021). Retrieved 1 February 2021, from https://hwiegman.home.xs4all.nl/gw-man/Chapter%206.html
+
+- Busbee, K., & Braunschweig, D. (2021). Constants and Variables. Retrieved 1 February 2021, from https://press.rebus.community/programmingfundamentals/chapter/constants-and-variables/
