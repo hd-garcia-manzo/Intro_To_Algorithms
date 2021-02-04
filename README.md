@@ -212,6 +212,25 @@ int x = 10; int y = 4; int z = 5;
 // OR if z is equal to 5.  
 // This expression is FALSE
 ``` 
+
+## PROBLEM SOLVING
+### Problem analysis
+- Understand the problem you have to solve and the results you must deliver
+### Algorithms desing
+- Design the algorithm on a flow chart
+### Coding 
+- Code the flowchart
+### Compilation and Execution 
+- Compile the program to see if we have any errors or not and run the program
+### Check
+- Check that the program does what it has to do and delivers what it has to deliver
+### Debbuging
+- Find bugs in your program, test the program with different tests and fix the errors
+### Maintenance
+- Improve your program and launch a second version
+### Documentation
+- Explain the logic within your program so that someone else can understand it without the need to ask you
+
 ## References
 - Java Control Structures. (2021). Retrieved 1 February 2021, from http://net-informations.com/java/sts/default.htm
 
